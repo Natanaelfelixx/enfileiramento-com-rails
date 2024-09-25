@@ -80,12 +80,4 @@ Para desenvolvimento local sem Docker:
 
 ## Testes
 
-[Adicione instruções sobre como executar os testes da sua aplicação]
-
-## Contribuindo
-
-[Adicione instruções sobre como outros desenvolvedores podem contribuir para o projeto]
-
-## Licença
-
-[Adicione informações sobre a licença do seu projeto]
+Testes para o projeto serão escritos a medida que o código for sendo desenvolvido.
