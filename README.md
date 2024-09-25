@@ -20,8 +20,8 @@ O objetivo é mostrar como tarefas demoradas podem ser movidas para background j
 
 1. Clone o repositório:
    ```
-   git clone [URL_DO_SEU_REPOSITORIO]
-   cd [NOME_DO_SEU_PROJETO]
+   git clone git@github.com:Natanaelfelixx/enfileiramento-com-rails.git
+   cd enfileiramento-com-rails
    ```
 
 2. Configure as credentials do Rails:
@@ -31,7 +31,6 @@ O objetivo é mostrar como tarefas demoradas podem ser movidas para background j
    Isso abrirá o arquivo de credentials no editor especificado. Adicione suas configurações sensíveis aqui, por exemplo:
    ```yaml
    secret_key_base: sua_chave_secreta_aqui
-   # Adicione outras configurações conforme necessário
    ```
 
 3. Construa e inicie os containers:
